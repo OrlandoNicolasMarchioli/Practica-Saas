@@ -1,0 +1,150 @@
+.navbar .fixed-top .navbar-expand-lg .navbar-light {
+  height: 2rem;
+}
+
+.navbar .fixed-top .navbar-expand-lg .navbar-light .nav-item .nav__link {
+  font-family: "Roboto", sans-serif;
+}
+.navbar .fixed-top .navbar-expand-lg .navbar-light .nav-item .nav__link:hover {
+  background-color: skyblue;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);
+  transition: 0.5s;
+}
+
+.row__parrafo {
+  background-color: #0DCAF0;
+}
+.row__parrafo .parrafo__titulo .parrafo__titulo__h1 {
+  font-family: "Roboto", sans-serif;
+  color: white;
+}
+.row__parrafo .parrafo__descripcion .parrafo__descripcion__h2 {
+  font-family: "Roboto", sans-serif;
+  color: white;
+}
+
+.container__enlaces {
+  margin-top: 3rem;
+}
+
+.enlace1 {
+  width: 400px;
+  height: 400px;
+}
+.enlace1 .enlace1__img {
+  width: 300px;
+  height: 300px;
+  background-color: #0DCAF0;
+  border-radius: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.enlace1 .enlace1__img .enlace1__a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.enlace1 .enlace1__img .enlace1__a .enlaces__img {
+  width: 225px;
+  height: 225px;
+}
+.enlace1 .enlace1__img .enlace1__a .enlaces__img:hover {
+  transform: scale(1.05, 1.05);
+  transition: 1s;
+  opacity: 0.8;
+}
+.enlace1 .enlace1__h2 {
+  text-align: center;
+}
+.enlace1 .enlace1__h2 .enlace1__h2__h2 {
+  font-family: "Roboto", sans-serif;
+  color: #0DCAF0;
+}
+.enlace1 .enlace__p {
+  font-family: "Roboto", sans-serif;
+  color: #0DCAF0;
+  text-align: center;
+}
+
+.enlace2 {
+  width: 400px;
+  height: 400px;
+}
+.enlace2 .enlace2__img {
+  width: 300px;
+  height: 300px;
+  background-color: #0DCAF0;
+  border-radius: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.enlace2 .enlace2__img .enlace2__a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.enlace2 .enlace2__img .enlace2__a .enlaces__img {
+  width: 225px;
+  height: 225px;
+}
+.enlace2 .enlace2__img .enlace2__a .enlaces__img:hover {
+  transform: scale(1.05, 1.05);
+  transition: 1s;
+  opacity: 0.8;
+}
+.enlace2 .enlace2__h2 {
+  text-align: center;
+}
+.enlace2 .enlace2__h2 .enlace2__h2__h2 {
+  font-family: "Roboto", sans-serif;
+  color: #0DCAF0;
+}
+.enlace2 .enlace__p {
+  font-family: "Roboto", sans-serif;
+  color: #0DCAF0;
+  text-align: center;
+}
+
+.enlace3 {
+  width: 400px;
+  height: 400px;
+}
+.enlace3 .enlace3__img {
+  width: 350px;
+  height: 350px;
+  background-color: #0DCAF0;
+  border-radius: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.enlace3 .enlace3__img .enlace3__a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.enlace3 .enlace3__img .enlace3__a .enlaces__img {
+  width: 255px;
+  height: 255px;
+}
+.enlace3 .enlace3__img .enlace3__a .enlaces__img:hover {
+  transform: scale(1.05, 1.05);
+  transition: 1s;
+  opacity: 0.8;
+}
+.enlace3 .enlace3__h2 {
+  text-align: center;
+}
+.enlace3 .enlace3__h2 .enlace3__h2__h2 {
+  font-family: "Roboto", sans-serif;
+  color: #0DCAF0;
+}
+.enlace3 .enlace__p {
+  font-family: "Roboto", sans-serif;
+  color: #0DCAF0;
+  text-align: center;
+}
+
+/*# sourceMappingURL=style.css.map */
